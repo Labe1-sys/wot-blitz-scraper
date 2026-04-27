@@ -2,7 +2,7 @@
 
 Ce projet est un robot de surveillance automatique pour le jeu **World of Tanks Blitz**. Il parcourt le site officiel, extrait les derniers articles (titres, liens, textes complets, images) et sauvegarde le tout dans un fichier JSON structuré.
 
-## 🌟 Fonctionnalités
+## 🌟 Fonctionnalités 
 - **Scraping Dynamique** : Utilise Selenium pour simuler un vrai navigateur et contourner les protections JavaScript/SPA du site.
 - **Extraction Profonde** : Ne se contente pas des aperçus, il visite chaque page d'article pour extraire le texte complet et les listes d'images.
 - **Format JSON** : Sauvegarde les données proprement (UTF-8) pour une intégration facile (Discord Bot, API, Dashboard).
