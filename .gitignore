@@ -1,4 +1,5 @@
 .venv/
 __pycache__/
-*.json
 .DS_Store
+# On ignore tout sauf celui-là
+!actu_blitz_complet.json
